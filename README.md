@@ -6,8 +6,8 @@
 - 🤖 I'm currently in **FRC Team 7130**.
 
 ### Contact me
-- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-discord-bubble-16.png"> 曉宏#5904
-- ![](/icons8-discord-bubble-16.png)
+- <link type="image/png" sizes="24x24" rel="icon" href="/icons8-discord-bubble-24.png"> 曉宏#5904
+- ![](/icons8-discord-bubble-24.png)
 - 📫 hongnai4507@gmail.com
 
 <!---
