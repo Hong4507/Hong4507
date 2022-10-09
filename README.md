@@ -1,5 +1,5 @@
-# Hi, 👋 I’m Neil.
-### Senior High School student
+<center><h1>Hi, I’m Neil.</h1></center>
+<center><h3>Senior High School student</h3></center>
 - 👀 I’m interested in **Minecraft plugin development**.
 - 🌱 I’m currently learning **Java**.
 - 🤖 I'm currently in **FRC Team 7130**.
