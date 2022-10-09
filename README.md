@@ -1,5 +1,6 @@
 # Hi, I’m Neil.
-### Senior High School student
+### About me
+- :fifteen: I'm 15 years old.
 - 👀 I’m interested in **Minecraft plugin development**.
 - 🌱 I’m currently learning **Java**.
 - 🤖 I'm currently in **FRC Team 7130**.
