@@ -6,7 +6,7 @@
 - 🤖 I'm currently in **FRC Team 7130**.
 
 ### Contact me
-- :discord: 曉宏#5904
+- <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-discord-bubble-16.png"> 曉宏#5904
 
 <!---
 Hong4507/Hong4507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
