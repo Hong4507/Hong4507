@@ -7,7 +7,7 @@
 
 ### Contact me
 - <link type="image/png" sizes="24x24" rel="icon" href="/icons8-discord-bubble-24.png"> 曉宏#5904
-- ![](/icons8-discord-bubble-24.png)
+- ![](/icons8-discord-bubble-material-rounded-32.png)
 - 📫 hongnai4507@gmail.com
 
 <!---
