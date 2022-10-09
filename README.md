@@ -7,6 +7,7 @@
 
 ### Contact me
 - <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-discord-bubble-16.png"> 曉宏#5904
+- 📫 hongnai4507@gmail.com
 
 <!---
 Hong4507/Hong4507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
