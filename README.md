@@ -9,6 +9,7 @@
 -  ![](/icons8-discord-bubble-material-rounded-16.png)    曉宏#5904
 - 📫 hongnai4507@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong4507)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Hong4507/Hong4507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
