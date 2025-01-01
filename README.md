@@ -1,7 +1,7 @@
 # Hi, I’m Neil.
 ### About me
-- 👦 I'm 15 years old. 
-- 👀 I’m interested in **Minecraft plugin development**.
+- 👦 I'm 17 years old. 
+- 👀 I’m interested in **Minecraft plugin development & mobile robotics**.
 - 🌱 I’m currently learning **Java**.
 - 🤖 I'm currently in **FRC Team 7130**.
 
