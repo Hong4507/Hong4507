@@ -1,8 +1,9 @@
 # Hi, I’m Neil.
 ### About me
-- 👦 I'm 17 years old. 
-- 👀 I’m interested in **Robotics & Embedded Programming**.
-- 🌱 I’m currently learning **Java**.
+- 👦 I'm 18 years old. 
+- 👀 I’m interested in **Robotics**.
+- 🌱 I’m currently learning **Java** & **Go**.
+- 🌱 I’m currently majoring in **Communication Engineering**.
 - 🤖 I'm currently in **FRC Team 7130**.
 
 ### Contact me
